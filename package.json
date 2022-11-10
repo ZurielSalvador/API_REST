@@ -1,0 +1,22 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Ejercicio con tecnologia REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZurielSalvador/API_REST.git"
+  },
+  "author": "Zuriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZurielSalvador/API_REST/issues"
+  },
+  "homepage": "https://github.com/ZurielSalvador/API_REST#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
